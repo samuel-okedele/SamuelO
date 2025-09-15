@@ -1,11 +1,18 @@
 # <a href="https://www.linkedin.com/in/samuel-okedele-a21b47219/">Samuel Okedele</a>'s IT & Cybersecurity Project Protfolio
 
-I'm a cybersecurity professional who has a passion for invesitgating log analysis, vulnerability assessment, and understandig attacker techniques. I thrive on identifyiing potential risks and security flaws, using a proactive approach to strengthen defenses. With a strong foucs on continous learning, I aim to stay ahed of evovling threats and enhance system to protect valuable digital assets. 
-
-
 ## ⚠️ Vulnerability Management Project 
 
-Lab Ar
+Lab Architecture Overview 
+Objectives 
+	• Intentionally creating a bunch of different types of vulnerabilities on both Windows & Linux - out of date software , bad OS configurations, weak encryption algorithms, weak admin credentials 
+	• Use Tenable/Nessus to scan for and manually remediate these vulnerabilities
+	• Automated vulnerability remediation
+	• Final Project - Step-by-step implementation of a vulnerability management program for mid-sized business 
+
+Technologies 
+	• Azure Subscription - Azure Virtual Machines 
+Scan Manager - Access to Tenable Vulnerability Management Platform <img width="2484" height="324" alt="image" src="https://github.com/user-attachments/assets/d5ab9f44-fbe2-4431-a915-9d17a3681c1f" />
+
 
 
 
